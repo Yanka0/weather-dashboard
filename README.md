@@ -18,6 +18,11 @@ A React-based weather application that provides current weather data and a 5-day
 - **OpenWeatherMap API**: API to fetch weather data.
 - **Jest**: Testing framework for writing tests to ensure code quality and reliability.
 
+## Points to improve (outside scope)
+
+- **Lat and lon cache**: Save lat and lon in Redux for favorite cities to decrease number of requests.
+- **Localization**: Localization in terms of language change as well as Celsius/Fahrenheit temperature scale.
+
 ## Installation
 
 To get started with this project, follow these steps:
