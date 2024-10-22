@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
  ```
  npm install
  ```
-4. To change API key or API url, edit .env file in the root of the project:
+4. !!Important!! Set API key - edit .env file in the root of the project:
 
  ```
  VITE_WEATHER_API_KEY=your_api_key_here
